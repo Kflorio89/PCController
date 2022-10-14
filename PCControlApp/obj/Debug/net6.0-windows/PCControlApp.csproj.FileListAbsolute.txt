@@ -1,0 +1,17 @@
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\bin\Debug\net6.0-windows\PCControlApp.exe
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\bin\Debug\net6.0-windows\PCControlApp.deps.json
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\bin\Debug\net6.0-windows\PCControlApp.runtimeconfig.json
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\bin\Debug\net6.0-windows\PCControlApp.dll
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\bin\Debug\net6.0-windows\PCControlApp.pdb
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.csproj.AssemblyReference.cache
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.csproj.GenerateResource.cache
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.AssemblyInfoInputs.cache
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.AssemblyInfo.cs
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.csproj.CoreCompileInputs.cache
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.dll
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\refint\PCControlApp.dll
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.pdb
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.genruntimeconfig.cache
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\ref\PCControlApp.dll
+C:\Users\3D Infotech\source\repos\PCControlApp\PCControlApp\obj\Debug\net6.0-windows\PCControlApp.MainForm.resources
